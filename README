@@ -1,0 +1,6 @@
+Cheyney.Me
+
+Introduction
+The website http://cheyney.me is made using HTML, CSS, JavaScript and Expression Engine that is designed to be hosted on a LAMP server.
+
+This repository contains all the components necessary to build the website http://cheyney.me except for the LAMP server code which can be found everywhere.
